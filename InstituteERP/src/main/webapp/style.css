@@ -1,0 +1,30 @@
+*
+{
+	margin:0px;
+}
+header{
+	height:80px;
+	background-color:blue;
+}
+header a{
+	margin-left:100px;
+	margin-left:100px;
+	color:white;
+}
+footer{
+	height:80px;
+	background-color:blue;
+	
+}
+section{
+		
+		height:500px;
+	width:100px;
+	background-color:gray;
+	/*color:white;*/
+}
+input[ type="submit"]
+{
+	background-color:blue;
+	color:white;
+}
